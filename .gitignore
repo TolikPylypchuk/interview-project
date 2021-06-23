@@ -1,0 +1,12 @@
+*.iml
+.idea
+target
+*.log
+/nbactions.xml
+/nbproject/
+/.vscode/
+nbproject/project.properties
+/.project
+/.factorypath
+/.classpath
+
